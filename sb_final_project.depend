@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1513991469 source:c:\users\admin\desktop\sb_final_project\cellphone.cpp
+	"CellPhone.h"
+
+1513991664 c:\users\admin\desktop\sb_final_project\cellphone.h
+	<iostream>
+	<string>
+
+1513989010 source:c:\users\admin\desktop\sb_final_project\main.cpp
+	<iostream>
+	<string>
+	"CellPhone.h"
+
